@@ -12,7 +12,7 @@
 
 from math import sqrt
 
-x, y, r = 23, 34, 42
+x, y, r = 23, 34, 22
 point_1 = sqrt(x ** 2 + y ** 2)
 print("Расстояние до точки от начала координат равно %.2f" % point_1)
 if point_1 > r:
